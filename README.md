@@ -85,6 +85,7 @@ The project is organized into several packages, each serving distinct roles:
 - **util**: Provides utility classes, such as `DatabaseHelper`, which handles database connection and initialization.
 - **main**: Contains the `Main.java`, which drives the application and handles user input and navigation.
 
+Files:
 - 📁 **root**
   - `build.gradle.kts`
   - `gradlew`
